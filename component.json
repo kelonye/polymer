@@ -1,0 +1,10 @@
+{
+  "name": "polymer",
+  "main": "polymer.js",
+  "scripts": [
+    "polymer.js"
+  ],
+  "files": {
+    "polymer.html"
+  }
+}
