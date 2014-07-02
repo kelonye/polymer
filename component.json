@@ -4,7 +4,7 @@
   "scripts": [
     "polymer.js"
   ],
-  "files": {
+  "files": [
     "polymer.html"
-  }
+  ]
 }
