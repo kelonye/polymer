@@ -5,6 +5,7 @@
     "polymer.js"
   ],
   "files": [
+    "layout.html",
     "polymer.html"
   ]
 }
